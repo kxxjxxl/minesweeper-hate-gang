@@ -105,7 +105,7 @@ if solver.finished():
     solution.show()
 ```
 
-## Disclaimer!
+## Disclaimer.
 
 There are lot's of corner cases still be to implemented. This repo was originally created
 to complement a twitter post, so will probably not get updated any time soon hehe.
